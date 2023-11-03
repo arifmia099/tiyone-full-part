@@ -1,2 +1,2 @@
 # tiyone-full-part
-tiyone project
+https://arifmia099.github.io/tiyone-full-part/
